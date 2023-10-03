@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ehliyetdurum\ehliyetdurum\bin\Debug\ehliyetdurum.exe.config
+C:\Users\User\source\repos\ehliyetdurum\ehliyetdurum\bin\Debug\ehliyetdurum.exe
+C:\Users\User\source\repos\ehliyetdurum\ehliyetdurum\bin\Debug\ehliyetdurum.pdb
+C:\Users\User\source\repos\ehliyetdurum\ehliyetdurum\obj\Debug\ehliyetdurum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ehliyetdurum\ehliyetdurum\obj\Debug\ehliyetdurum.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ehliyetdurum\ehliyetdurum\obj\Debug\ehliyetdurum.Form1.resources
+C:\Users\User\source\repos\ehliyetdurum\ehliyetdurum\obj\Debug\ehliyetdurum.Properties.Resources.resources
+C:\Users\User\source\repos\ehliyetdurum\ehliyetdurum\obj\Debug\ehliyetdurum.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ehliyetdurum\ehliyetdurum\obj\Debug\ehliyetdurum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ehliyetdurum\ehliyetdurum\obj\Debug\ehliyetdurum.exe
+C:\Users\User\source\repos\ehliyetdurum\ehliyetdurum\obj\Debug\ehliyetdurum.pdb
